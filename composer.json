@@ -1,0 +1,19 @@
+{
+    "name": "ahmedash95/phpunit-json-formatter",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^12.0.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmedash95\\PhpunitJsonFormatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Ammar",
+            "email": "ahmed29329@gmail.com"
+        }
+    ]
+}
